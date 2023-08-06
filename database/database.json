@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Tommy",
+      "id": 1
+    },
+    {
+      "name": "Jennie",
+      "id": 2
+    },
+    {
+      "name": "Harry",
+      "id": 3
+    },
+    {
+      "name": "Beck",
+      "id": 4
+    },
+    {
+      "name": "Ben",
+      "id": 5
+    },
+    {
+      "name": "Trịnh Văn Sơn 123",
+      "id": 6
+    }
+  ],
+  "articles": [
+    {
+      "id": 2,
+      "title": "Article 1",
+      "content": "Lorem ipsum dolor sit amet",
+      "user_id": 1
+    },
+    {
+      "title": "Article 1 edit",
+      "content": "Lorem ipsum dolor sit amet",
+      "user_id": 2,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Article 1",
+      "content": "Lorem ipsum dolor sit amet",
+      "user_id": 3
+    },
+    {
+      "id": 5,
+      "title": "Article 1",
+      "content": "Lorem ipsum dolor sit amet",
+      "user_id": 4
+    },
+    {
+      "title": "title 1",
+      "content": "content 1",
+      "user_id": 6,
+      "id": 6
+    }
+  ]
+}
